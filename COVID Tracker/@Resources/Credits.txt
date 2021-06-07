@@ -1,0 +1,5 @@
+Original skins I modified:
+	COVID-19 Wuhan Coronavirua Tracker for Rainmeter by Novadestin (https://www.deviantart.com/novadestin/art/COVID-19-Wuhan-Coronavirus-Tracker-for-Rainmeter-830607472)
+	COVID-19 Tracker Rainmeter by MrunalS (https://www.deviantart.com/mrunals/art/COVID-19-Tracker-Rainmeter-836306480)
+Image: Glass dock icons by carburator
+Data: https://www.worldometers.info/coronavirus/
